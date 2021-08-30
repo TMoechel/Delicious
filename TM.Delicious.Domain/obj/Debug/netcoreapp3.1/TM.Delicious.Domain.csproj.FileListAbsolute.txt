@@ -1,0 +1,9 @@
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\bin\Debug\netcoreapp3.1\TM.Delicious.Domain.deps.json
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\bin\Debug\netcoreapp3.1\TM.Delicious.Domain.dll
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\bin\Debug\netcoreapp3.1\TM.Delicious.Domain.pdb
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\obj\Debug\netcoreapp3.1\TM.Delicious.Domain.csprojAssemblyReference.cache
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\obj\Debug\netcoreapp3.1\TM.Delicious.Domain.AssemblyInfoInputs.cache
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\obj\Debug\netcoreapp3.1\TM.Delicious.Domain.AssemblyInfo.cs
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\obj\Debug\netcoreapp3.1\TM.Delicious.Domain.csproj.CoreCompileInputs.cache
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\obj\Debug\netcoreapp3.1\TM.Delicious.Domain.dll
+C:\Entwicklung\Eigene\CleanrArchitecture\Delicious\TM.Delicious\TM.Delicious.Domain\obj\Debug\netcoreapp3.1\TM.Delicious.Domain.pdb
